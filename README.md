@@ -7,7 +7,7 @@ Implementacao baseado em alguns papeis de funcionamento do iphone proposto no cu
 
 A classe **AparelhoTelefonico** é uma classe abstrata contendo a assinatura de dois metodos que todo aparelho telefônico tem em comum *ligar* e *atender* a classe **AparelhoIphone** é a classe mais especifica que herda de AparelhoTelefonico e implementa a interface **MensagemAudio** que assina o metodo *iniciaCorreioVoz* considerando que esse seria um recurso a parte somente para a classe AparelhoIphone.
 
-src/main/resources/static/image/image-20230811123517926.png
+
 
 ![image-20230811123709605](src/main/resources/static/image/image-20230811123709605.png)
 
